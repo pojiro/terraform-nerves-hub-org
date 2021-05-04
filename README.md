@@ -9,7 +9,7 @@ This is a repository of https://github.com/nerves-hub/terraform with some modifi
 ## Prerequisites
 
 * use [asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp) terraform, this will detect .tool-version file and choose proper version.
-* create organization on terraform workspace and replace organization name of main.tf
+* create organization on terraform  and replace organization name of main.tf
 * craete public zone on aws and its certificate.
 * prepare SES on aws.
 * add ssl certs to ./ssl/default/.
